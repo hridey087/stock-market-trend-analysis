@@ -1,0 +1,26 @@
+# Core Data Processing
+yfinance==0.2.37
+pandas==2.2.1
+numpy==1.26.4
+
+# Database
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.29
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Web API
+Flask==3.0.2
+flask-cors==4.0.0
+
+# Data Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Jupyter Notebook
+jupyter==1.0.0
+ipykernel==6.29.3
+
+# Technical Analysis
+ta==0.11.0

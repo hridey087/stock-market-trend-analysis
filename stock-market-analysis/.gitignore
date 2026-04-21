@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Environment Variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data Files (keep sample, exclude full dataset)
+data/nse_bse_features_full.csv
+data/*.parquet
+data/*.pickle
+
+# PostgreSQL
+*.dump
+*.sql.bak
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Power BI
+*.pbix
+*.pbit
+
+# Tableau
+*.twb
+*.twbx
+*.tde
+*.hyper
+
+# Flask
+instance/
+webapp.log
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
